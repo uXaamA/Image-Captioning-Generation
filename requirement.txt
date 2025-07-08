@@ -1,0 +1,6 @@
+torch==1.13.1+cu117
+torchvision==0.14.1+cu117
+wandb>=0.13.5
+pillow>=9.2.0
+pandas>=1.4.3
+numpy>=1.23.3
